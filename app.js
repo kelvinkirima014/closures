@@ -55,4 +55,5 @@ console.log(`the country population is ${myPopulation}`)//->outputs '20 million'
 //using the 'closure scope' process
 //this way population() can access countryPopulation even after 
 //country()execution context is popped off the execution stack
+//closure scope is done only for nested functions
  
